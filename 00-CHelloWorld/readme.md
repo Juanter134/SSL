@@ -2,4 +2,4 @@
 
 ### Version del compilador: 13.2.0
 
-### Version ded C que compila: C2x
+### Version de C que compila: C2x
